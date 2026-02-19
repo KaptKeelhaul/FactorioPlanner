@@ -1,0 +1,5 @@
+[
+    { "name": "Electronic circuit", "time": 0.5, "ingredients": {"Copper Cable": 3, "Iron plate":1 }, "output": 1 },
+    { "name": "Advanced circuit", "time": 6, "ingredients": {"Copper Cable": 4, "Electronic circuit":2, "Plastic bar":2 }, "output":1 },
+    { "name": "Processing unit", "time": 10, "ingredients": {"Advanced circuit": 2, "Electronic circuit":20, "Sulfuric acid":5 }, "output":1 }
+]
